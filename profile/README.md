@@ -14,6 +14,6 @@ Puedes apuntarte al aula invertida [aqui](https://intercoonecta.aecid.es/program
 Puedes apuntarte al hackaton aqui (proximamente).
 
 
-<img     style="float: left;" src="instituciones.png" width="500" height="150"> 
+<img     style="float: left;" src=".github/profile/instituciones.png" width="500" height="150"> 
 
 <img     style="float: right;" src="AECID.png" width="600" height="50">
