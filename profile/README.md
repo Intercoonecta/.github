@@ -14,7 +14,7 @@ Puedes apuntarte al aula invertida [aqui](https://intercoonecta.aecid.es/program
 Puedes apuntarte al hackaton aqui (proximamente).
 
 
-<img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/195077108-5636a1c3-4de0-4df5-9118-9e9bb9beb1c9.png)" width="500" height="150"> 
+<img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/195077108-5636a1c3-4de0-4df5-9118-9e9bb9beb1c9.png" width="500" height="150"> 
 
 <img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/195075723-a30c6d6b-6b45-4cd8-b5fe-bf868e03367c.png" width="600" height="50">
 
