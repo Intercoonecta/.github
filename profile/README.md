@@ -1,5 +1,7 @@
 # Bienvenido/a a HACKATON INTERCOONECTA
+
 ## Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español
+
 ## El proyecto INTERCOONECTA está fundamentado en la red [INVIPESCA](https://invipesca.cetmar.org/)
 
 ## Fechas
