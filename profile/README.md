@@ -11,7 +11,7 @@ Un hackaton consiste en una semana intensiva de trabajo colaborativo centrado en
 Para participar en este hackaton es necesario poder desarrollar código en R o Python, y manejarse en el uso de Jupyter y github. Existe la posibilidad de adquirir estos conocimientos siguiendo el material de estudio individual disponible en el aula invertida. 
 
 
-Puedes apuntarte al aula invertida hasta el 11 de noviembre [aqui](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/introducci-n-al-uso-de-software-de-c-digo-abierto-aplicado-al-an-lisis-de-datos-oceanogr-ficos-y-gesti-n-pesquera) o estudiar el material por tu cuenta siguiendo el [repositorio](https://github.com/Intercoonecta/Aula-invertida).
+Puedes apuntarte al aula invertida hasta el 11 de noviembre [aqui](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/introducci-n-al-uso-de-software-de-c-digo-abierto-aplicado-al-an-lisis-de-datos-oceanogr-ficos-y-gesti-n-pesquera) o estudiar el material por tu cuenta siguiendo el [repositorio](https://github.com/Intercoonecta/Aula-invertida) (proximamente).
 
 Puedes apuntarte al hackaton aqui (proximamente).
 
