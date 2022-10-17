@@ -1,8 +1,6 @@
 # Bienvenido/a a HACKATON INTERCOONECTA
 
-Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español
-
-El proyecto INTERCOONECTA está fundamentado en la red [INVIPESCA](https://invipesca.cetmar.org/)
+Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español y es una de las actividades del proyecto INVIPESCA-AECID financiado por la convocatoria INTERCOONECTA de la AECID y el CSIC. 
 
 ## Fechas
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre (más una h de tutoría online).
