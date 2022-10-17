@@ -20,6 +20,4 @@ Puedes apuntarte al hackaton aqui (proximamente).
 
 <img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/196215480-6d175c9b-2291-4627-832f-56c76e9b5ff5.png" width="800" height="100">
 
-<img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/195075723-a30c6d6b-6b45-4cd8-b5fe-bf868e03367c.png" width="800" height="50">
-
 
