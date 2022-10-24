@@ -2,6 +2,9 @@
 
 Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español y es una de las actividades del proyecto INVIPESCA-AECID financiado por la convocatoria INTERCOONECTA de la AECID y el CSIC. 
 
+## Destinatarios
+- Investigadores, técnicos y estudiantes de América Latina y el Caribe
+
 ## Fechas
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre (más dos horas de tutoría online).
 - Hackaton: febrero de 2023 (semana por decidir)
