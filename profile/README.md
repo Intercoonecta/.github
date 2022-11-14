@@ -1,6 +1,8 @@
 # Bienvenido/a a HACKATON INTERCOONECTA
+**Marian Peña, Héctor Villalobos, Alma Carolina Castillo Trujillo, Denisse Fierro Arcos, Emilio Mayorga, Laura Gómez Navarro, David Correa** 
 
-Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español y es una de las actividades del proyecto INVIPESCA-AECID financiado por la convocatoria INTERCOONECTA de la AECID y el CSIC. 
+
+Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackweek.github.io/) en su versión en español y es una de las actividades del proyecto INVIPESCA-FORT financiado por la convocatoria INTERCOONECTA de la AECID y el CSIC. 
 
 ## Destinatarios
 - Investigadores, técnicos y estudiantes de América Latina y el Caribe
