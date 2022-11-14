@@ -9,7 +9,7 @@ Este hackaton forma parte de la iniciativa del [OceanHacweek](https://oceanhackw
 
 ## Fechas
 - Aula invertida: trabajo individual entre el 28 de noviembre y el 9 de diciembre (más dos horas de tutoría online).
-- Hackaton: febrero de 2023 (semana por decidir)
+- Hackaton: 27 de febrero a 3 de marzo de 2023
 
 ## ¿Qué es un hackaton?
 Un hackaton consiste en una semana intensiva de trabajo colaborativo centrado en el desarrollo de código abierto en torno a una temática concreta. En este caso el hackaton se desarrollará de forma online, utilizando los lenguajes de programación gratuitos R y Python y sobre el tratamiento de datos científicos marinos. La semana de trabajo se dividirá en horas de tutoriales avanzados en R y Python por la mañana (3h/dia) utilizando la plataforma jupyterhub, y trabajo en grupo en diversos proyectos por la tarde (3h/dia). Los temas principales de los tutoriales serán el tratamiento de datos espaciales y temporales, y el procesado de datos acústicos submarinos. Los participantes en el Hackaton podrán diseñar sus propios proyectos, asesorados por los tutores, pero dispondrán asimismo de una lista de ideas en las que trabajar. 
