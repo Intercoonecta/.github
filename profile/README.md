@@ -21,9 +21,10 @@ Puedes apuntarte al aula invertida hasta el 11 de noviembre [aqui](https://inter
 
 Puedes apuntarte al hackaton aqui (proximamente).
 
-![invipesca-FORT](https://user-images.githubusercontent.com/1233089/202459284-869a4fa1-3565-4a4d-8514-88d6b973fdce.png)
 
 
+
+<img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/202459284-869a4fa1-3565-4a4d-8514-88d6b973fdce.png" width="200" height="200"> 
 <img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/195077108-5636a1c3-4de0-4df5-9118-9e9bb9beb1c9.png" width="600" height="200"> 
 
 <img     style="float: right;" src="https://user-images.githubusercontent.com/1233089/196215480-6d175c9b-2291-4627-832f-56c76e9b5ff5.png" width="800" height="100">
