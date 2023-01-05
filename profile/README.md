@@ -15,8 +15,8 @@ Este hackaton forma parte de la iniciativa del [OceanHackWeek](https://oceanhack
 Un hackaton consiste en una semana intensiva de trabajo colaborativo centrado en el desarrollo de código abierto en torno a una temática concreta. En este caso el hackaton se desarrollará de forma online, utilizando los lenguajes de programación gratuitos R y Python y sobre el tratamiento de datos científicos marinos. La semana de trabajo se dividirá en horas de tutoriales avanzados en R y Python por la mañana (3h/dia) utilizando la plataforma jupyterhub, y trabajo en grupo en diversos proyectos por la tarde (3h/día). Los temas principales de los tutoriales serán el tratamiento de datos espaciales y temporales, y el procesado de datos acústicos submarinos. Los participantes en el hackaton podrán diseñar sus propios proyectos, asesorados por los tutores, pero dispondrán así mismo de una lista de ideas en las que trabajar. Los proyectos podrán estar incluídos dentro de tres temáticas: OCEANOGRAFÍA, DATOS PESQUEROS, ACÚSTICA PESQUERA. A continuación se incluyen ejemplos concretos de proyectos:
 
 # Oceanografía
-- Lectura y procesado de datos oceanográficos online ([COPERNICUS](https://help.marine.copernicus.eu/en/articles/4854800-how-to-manipulate-copernicus-marine-data-using-python),[OOI](https://github.com/oceanhackweek/ohw18_omlet)
-- [Cálculo de corrientes](https://github.com/oceanhackweek/ohw21-proj-deep-currents/blob/main/notebooks/data_analysis.ipynb))
+- Lectura y procesado de datos oceanográficos online ([COPERNICUS](https://help.marine.copernicus.eu/en/articles/4854800-how-to-manipulate-copernicus-marine-data-using-python),[OOI](https://github.com/oceanhackweek/ohw18_omlet))
+- [Cálculo de corrientes](https://github.com/oceanhackweek/ohw21-proj-deep-currents/blob/main/notebooks/data_analysis.ipynb)
 # Datos pesqueros
 - Implementació de modelos pesqueros en R o Python.[Paquetes en R](https://sfg-ucsb.github.io/fishery-manageR/wrapping-up.html#r-packages-for-fishery-analysis)
 - Lectura y procesado de datos pesqueros online [openfisheries](https://github.com/ropensci/rfisheries)
