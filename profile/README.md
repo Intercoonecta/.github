@@ -19,7 +19,7 @@ Un hackaton consiste en una semana intensiva de trabajo colaborativo centrado en
 - [Cálculo de corrientes](https://github.com/oceanhackweek/ohw21-proj-deep-currents/blob/main/notebooks/data_analysis.ipynb)
 # Datos pesqueros
 - Implementació de modelos pesqueros en R o Python.[Paquetes en R](https://sfg-ucsb.github.io/fishery-manageR/wrapping-up.html#r-packages-for-fishery-analysis)
-- Lectura y procesado de datos pesqueros online [openfisheries](https://github.com/ropensci/rfisheries)
+- Lectura y procesado de datos pesqueros online ([openfisheries](https://github.com/ropensci/rfisheries))
 - Lista de paquetes relacionados en github [aqui](https://github.com/topics/fisheries)
 
 
@@ -39,7 +39,7 @@ Puedes apuntarte al aula invertida hasta el 11 de noviembre [aquí](https://inte
 Puedes apuntarte al hackaton [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol) (próximamente).
 
 ## Certificado
-Los asistentes que participen en un 90% de las actividades de la semana recibirán un certificado de participación. Se valorrá: asistencia a las clases, participación activa en el grupo y colaboración en la creación de código.
+Los asistentes que participen en un 90% de las actividades de la semana recibirán un certificado de participación. Se valorará: asistencia a las clases, participación activa en el grupo y colaboración en la creación de código.
 
 <img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/202459284-869a4fa1-3565-4a4d-8514-88d6b973fdce.png" width="200" height="200"> 
 <img     style="float: left;" src="https://user-images.githubusercontent.com/1233089/195077108-5636a1c3-4de0-4df5-9118-9e9bb9beb1c9.png" width="600" height="200"> 
