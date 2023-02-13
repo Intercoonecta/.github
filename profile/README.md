@@ -38,7 +38,7 @@ Para participar en este hackaton es necesario poder desarrollar código en R o P
 ## ¿Cómo participar?
 Puedes apuntarte al aula invertida hasta el 11 de noviembre [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/introducci-n-al-uso-de-software-de-c-digo-abierto-aplicado-al-an-lisis-de-datos-oceanogr-ficos-y-gesti-n-pesquera) o estudiar el material por tu cuenta siguiendo el [repositorio](https://github.com/Intercoonecta/Aula-invertida).
 
-Puedes apuntarte al hackaton [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol) (próximamente).
+Más información [aquí](https://intercoonecta.aecid.es/programaci%C3%B3n-de-actividades/hackaton-en-ciencia-marina-en-espa-ol).
 
 ## Certificado
 Los asistentes que participen en un 90% de las actividades de la semana recibirán un certificado de participación. Se valorará: asistencia a las clases, participación activa en el grupo y colaboración en la creación de código.
