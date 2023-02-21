@@ -20,7 +20,7 @@ A continuación se incluyen ejemplos concretos de proyectos:
 - Lectura y procesado de datos oceanográficos online ([COPERNICUS](https://help.marine.copernicus.eu/en/articles/4854800-how-to-manipulate-copernicus-marine-data-using-python),[OOI](https://github.com/oceanhackweek/ohw18_omlet))
 - [Cálculo de corrientes](https://github.com/oceanhackweek/ohw21-proj-deep-currents/blob/main/notebooks/data_analysis.ipynb)
 # Datos pesqueros
-- Implementació de modelos pesqueros en R o Python.[Paquetes en R](https://sfg-ucsb.github.io/fishery-manageR/wrapping-up.html#r-packages-for-fishery-analysis)
+- Implementación de modelos pesqueros en R o Python.[Paquetes en R](https://sfg-ucsb.github.io/fishery-manageR/wrapping-up.html#r-packages-for-fishery-analysis)
 - Lectura y procesado de datos pesqueros online ([openfisheries](https://github.com/ropensci/rfisheries))
 - Lista de paquetes relacionados en github [aqui](https://github.com/topics/fisheries)
 
